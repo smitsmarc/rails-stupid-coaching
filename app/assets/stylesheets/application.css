@@ -8,3 +8,44 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+
+ body {
+  background-color: #f5f0eb;
+}
+
+h1 {
+  color: #5c5450;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.alert{
+   background-color: #e8e0d8;
+   border: none;
+}
+
+.btn_back {
+  font-family: verdana;
+  border: none;
+  background-color: #c4b8ac;
+  border-radius: 30px;
+  display: block;
+  text-align: center;
+  width: fit-content;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 3px;
+  color: black
+}
+
+
+input {
+background-color: #c4b8ac;
+border-radius: 4px;
+border: none;
+}
